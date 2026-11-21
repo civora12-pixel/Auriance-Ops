@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `return_pending` integer DEFAULT false NOT NULL;

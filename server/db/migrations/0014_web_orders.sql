@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `awaiting_confirmation` integer DEFAULT false NOT NULL;

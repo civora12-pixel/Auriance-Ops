@@ -1,0 +1,1 @@
+ALTER TABLE `notifications` ADD `actor_id` text REFERENCES users(id) ON DELETE set null;

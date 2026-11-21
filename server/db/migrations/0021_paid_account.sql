@@ -1,0 +1,1 @@
+ALTER TABLE `orders` ADD `paid_account_id` text;

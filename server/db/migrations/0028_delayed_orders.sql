@@ -1,0 +1,1 @@
+ALTER TABLE `orders` DROP COLUMN `schedule_confirmed_at`;
